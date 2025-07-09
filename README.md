@@ -1,3 +1,8 @@
-This project is ready to deploy into AWS.
-
-![Screenshot 2025-01-17 at 12-05-49 Editing E_Commerce_Microservice_README md at main · sium-java-developer_E_Commerce_Microservice](https://github.com/user-attachments/assets/aef40cf9-4ea2-4852-8466-b8c2d655ad02)
+![one](https://github.com/user-attachments/assets/275031c8-2bc8-4186-906b-00607d8a8865)
+![architec](https://github.com/user-attachments/assets/ccc26fc7-c097-468b-8e8b-516d0c5180de)
+![architecture](https://github.com/user-attachments/assets/e6544a82-0057-4a5e-8748-8e51714c93b1)
+![two](https://github.com/user-attachments/assets/ea0037e2-24ef-41a6-9eae-ab29f77cbe52)
+![three](https://github.com/user-attachments/assets/502e43f1-9a8d-44ec-a8d6-c46b0749e701)
+![four](https://github.com/user-attachments/assets/f4567346-9a26-49f5-9728-91380ba026c1)
+![five](https://github.com/user-attachments/assets/b3269613-663a-496b-8cf7-e7467299cb6f)
+![six](https://github.com/user-attachments/assets/503355e6-04ee-42f6-aa52-33ce47924a1a)
