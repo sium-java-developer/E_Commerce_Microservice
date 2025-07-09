@@ -1,4 +1,4 @@
-![one](https://github.com/user-attachments/assets/275031c8-2bc8-4186-906b-00607d8a8865)
+![one](https://github.com/user-attachments/assets/6d62f956-f12d-454c-b45e-3428c16d9d86)
 ![architec](https://github.com/user-attachments/assets/ccc26fc7-c097-468b-8e8b-516d0c5180de)
 ![architecture](https://github.com/user-attachments/assets/e6544a82-0057-4a5e-8748-8e51714c93b1)
 ![two](https://github.com/user-attachments/assets/ea0037e2-24ef-41a6-9eae-ab29f77cbe52)
